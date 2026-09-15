@@ -4,8 +4,8 @@
 ]]
 
 local CONFIG = {
-    Name = "Hallwayz Fly",
-    Subtitle = "All Games",
+    Name = "FLY NA SAGAPUNG BRO",
+    Subtitle = "BY ARYA X SALMAN SAGAPUNG",
     Version = "v1.0.0",
     KeysURL = "https://raw.githubusercontent.com/ZurraOfficial/Fly/main/keys.txt",
     DiscordURL = "https://discord.gg/GANTI_INVITE",
