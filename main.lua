@@ -351,7 +351,7 @@ end
 -- ============================================================
 -- Format: IconName = "https://telegra.ph/file/xxxxx.png" (atau raw link apapun)
 local Icons = {
-    Logo = "https://ibb.co.com/n86GRjC1", -- isi link logo kamu
+    Logo = "", -- isi link logo kamu
     Info = "rbxassetid://10734950309", -- isi link icon info
     Fly = "rbxassetid://10734898355",  -- isi link icon fly
     Palette = "rbxassetid://10734924949", -- isi link icon palette/theme
