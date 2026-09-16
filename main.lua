@@ -27,7 +27,7 @@ local Camera = workspace.CurrentCamera or workspace:WaitForChild("Camera", 5)
 -- ============================================================
 local CONFIG = {
     Name = "Hallwayz",
-    Subtitle = "Edit by ZurraOfficial",
+    Subtitle = "by ZurraOfficial",
     Version = "v1.0.0",
     KeysURL = "https://raw.githubusercontent.com/ZurraOfficial/Fly/main/keys.txt",
     Developer = {
